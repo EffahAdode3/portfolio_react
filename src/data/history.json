@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "University Of Ghana Computing System",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/233.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "University Of Ghana Computing System",
+    "startDate": "Sep, 2022 ",
+    "endDate": "Dec 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/233.png"
+  }
+
+]
